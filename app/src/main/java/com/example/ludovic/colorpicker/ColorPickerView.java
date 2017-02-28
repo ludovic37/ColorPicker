@@ -56,7 +56,7 @@ public class ColorPickerView extends View{
             canvas.translate(CENTER_X, CENTER_X);
 
             canvas.drawOval(new RectF(-r, -r, r, r), mPaint);
-            
+
         }
 
         @Override
